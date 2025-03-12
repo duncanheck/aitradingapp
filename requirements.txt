@@ -1,0 +1,9 @@
+krakenex
+pykrakenapi
+matplotlib
+plotly
+pandas
+pillow
+kaleido
+requests
+tk
